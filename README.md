@@ -18,6 +18,9 @@ https://challenge-d4dcb.web.app/login
 - Register and Sign in funtionalities.
 - Register and sign in re-routes to landing page with the name of the user logged in.
 
+- Firebase set-up, Initializing and build. 
+- Application is hosted in Firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
