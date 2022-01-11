@@ -1,3 +1,23 @@
+Features covered in the Application:
+
+https://challenge-d4dcb.web.app/
+
+- Add items to basket. 
+- Responsive landing page
+- Clickable basket icon which routes to the Checkout page
+
+https://challenge-d4dcb.web.app/checkout
+
+- Remove items from the shopping basket.
+- Calculation on how many items are present in the basket and how much do they cost.
+- Email ID and User details display on the page.
+- Clickable "amazon" link on the let top corner of the page which re-routes app to landing page.
+
+https://challenge-d4dcb.web.app/login
+
+- Register and Sign in funtionalities.
+- Register and sign in re-routes to landing page with the name of the user logged in.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
